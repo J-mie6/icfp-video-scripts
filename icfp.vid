@@ -1,0 +1,5 @@
+#lang video ; icfp.vid
+
+(image "logo/ICFP2017logo_final.png" #:length 200)
+
+(clip "../scheme/apm.mp4")
